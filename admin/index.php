@@ -1,10 +1,10 @@
 <?php
 
-require '../config.php';
+    require '../config.php';
+    include '../src/Artigo.php';
 
-include '../src/Artigo.php';
-$obj_artigo = new Artigo($mysql);
-$artigos = $obj_artigo->exibirTodos();
+    $obj_artigo = new Artigo($mysql);
+    $artigos = $obj_artigo->exibirTodos();
 
 ?>
 
