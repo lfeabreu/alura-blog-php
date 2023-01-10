@@ -7,10 +7,10 @@
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         
         $artigo = new Artigo($mysql);
-        //$artigo->adicionar($_POST['titulo'], $_POST['conteudo']);
+        $artigo->editar($_POST['id'], $_POST['titulo'], $_POST['conteudo']);
 
         redireciona('/blog/admin/index.php');
-        
+
     }
 
     $obj_artigo = new Artigo($mysql);
