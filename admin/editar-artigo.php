@@ -1,6 +1,6 @@
 <?php
 
-    require 'config.php';
+    require '../config.php';
     require '../src/Artigo.php';
     require '../src/redireciona.php';
 
