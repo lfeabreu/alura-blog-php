@@ -23,10 +23,10 @@
         <div>
             <?php foreach ($artigos as $artigo) : ?>
             <div id="artigo-admin">
-                <p><?php echo $artigo['titulo'] ?></p>
+                <p><?php echo $artigo['titulo']; ?></p>
                 <nav>
-                    <a class="botao" href="editar-artigo.php?id=<?php echo $artigo['id'] ?>">Editar</a>
-                    <a class="botao" href="excluir-artigo.php?id=<?php echo $artigo['id'] ?>">Excluir</a>
+                    <a class="botao" href="editar-artigo.php?id=<?php echo $artigo['id']; ?>">Editar</a>
+                    <a class="botao" href="excluir-artigo.php?id=<?php echo $artigo['id']; ?>">Excluir</a>
                 </nav>
             </div>
             <?php endforeach; ?>

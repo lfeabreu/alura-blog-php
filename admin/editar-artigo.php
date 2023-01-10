@@ -33,14 +33,14 @@
         <form action="editar-artigo.php" method="post">
             <p>
                 <label for="titulo">Digite o novo título do artigo</label>
-                <input class="campo-form" type="text" name="titulo" id="titulo" value="<?php echo $artigo['titulo'] ?>" />
+                <input class="campo-form" type="text" name="titulo" id="titulo" value="<?php echo $artigo['titulo']; ?>" />
             </p>
             <p>
                 <label for="conteudo">Digite o novo conteúdo do artigo</label>
-                <textarea class="campo-form" type="text" name="conteudo" id="titulo"><?php echo $artigo['conteudo'] ?></textarea>
+                <textarea class="campo-form" type="text" name="conteudo" id="titulo"><?php echo $artigo['conteudo']; ?></textarea>
             </p>
             <p>
-                <input type="hidden" name="id" value="<?php echo $artigo['id'] ?>" />
+                <input type="hidden" name="id" value="<?php echo $artigo['id']; ?>" />
             </p>
             <p>
                 <button class="botao">Editar Artigo</button>
