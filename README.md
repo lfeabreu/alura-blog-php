@@ -17,6 +17,6 @@ Utilizei o VS Code para a manipulação do código-fonte, com a extensão "PHP I
 Usando o GitHub Desktop, fiz o clone deste repositório para uma pasta no servidor local (usei o XAMPP), realizando _pull requests_ para atualizar o diretório do servidor.
 
 ![Código](https://user-images.githubusercontent.com/83261134/211645539-32207027-e77e-4ec6-8682-ecacb1f5d231.png)
-![Página Principal](https://user-images.githubusercontent.com/83261134/211646055-92b4317a-8e46-4be6-bd8f-323ced8b5ec7.png)
+![Página Principal](https://user-images.githubusercontent.com/83261134/211646055-92b4317a-8e46-4be6-bd8f-323ced8b5ec7.png#vitrinedev)
 ![Página Admin](https://user-images.githubusercontent.com/83261134/211646160-12f673df-fdc7-45ca-926e-dab044ab2361.png)
 ![GitHub Desktop](https://user-images.githubusercontent.com/83261134/211646852-540eaa6b-0019-4e53-b630-1930a5c457df.png)
