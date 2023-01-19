@@ -2,6 +2,11 @@
 
 Este repositório foi criado com o intuito de compartilhar meu aprendizado no Curso da Alura "PHP e MySQL: Criando uma webapp".
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Alura Blog PHP**
+| :label: Tecnologias | php, html, css, mysql e vscode
+
 ## Alguns conhecimentos que achei interessante
 
 Abaixo estão algumas coisas que achei interessante durante o curso e minha aprendizagem:
